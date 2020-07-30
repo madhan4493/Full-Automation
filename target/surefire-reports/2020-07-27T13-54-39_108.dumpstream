@@ -1,0 +1,4 @@
+# Created at 2020-07-27T13:54:39.637
+Boot Manifest-JAR contains absolute paths in classpath 'D:\eclipse-java-kepler-SR1-win32-x86_64 (2)\FullAutomation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
