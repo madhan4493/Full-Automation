@@ -55,5 +55,6 @@ public class overall extends base {
 	public void terminate() {
 		driver.close();
 		log.info("browser closed");
+		log.error("browser closed");
 	}
 }
